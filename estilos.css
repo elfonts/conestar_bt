@@ -1,5 +1,5 @@
 /*Box Model*/
-/*VOLVER A SUMER headerProductos al css*/
+/*Linea 103 pseudoclases*/
 * {
     margin: 0;
     padding: 0;
@@ -111,6 +111,10 @@ span:hover {
     color: honeydew;
 
 
+}
+
+:root {
+    background-color: #dbdbdb;
 }
 
 /*Animación*/
